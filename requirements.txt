@@ -33,7 +33,7 @@ import-expression==1.1.4
 isort==5.8.0
 jaraco.context==4.0.0
 jishaku==1.20.0.220
-joblib==1.0.1
+joblib==1.2.0
 lazy-object-proxy==1.6.0
 mathparse==0.1.2
 mccabe==0.6.1
