@@ -9,7 +9,7 @@ attrs==20.3.0
 beautifulsoup4==4.9.3
 braceexpand==0.1.6
 bs4==0.0.1
-certifi==2020.12.5
+certifi==2023.7.22
 chardet==3.0.4
 ChatterBot==1.0.4
 chatterbot-corpus==1.2.0
